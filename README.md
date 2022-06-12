@@ -1,7 +1,7 @@
 # Gigabyte_b365m_i5-9600k_hachintoshEFI
 | 电脑型号 | 技嘉 B365 M AORUS ELITE 台式电脑 |
 | --- | --- |
-| 操作系统 | macOS Monterey 12.1 |
+| 操作系统 | macOS Ventura Beta 1 |
 | 处理器 | 英特尔 Core i5-9600K @ 3.70GHz 六核 |
 | 主板 | 技嘉 B365 M AORUS ELITE-CF（300 Series 芯片组 Family (B365)） |
 | 显卡 | 英特尔 UHD Graphics 630 ( 128 MB / 技嘉 ) |
