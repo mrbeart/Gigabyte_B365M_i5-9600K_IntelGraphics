@@ -11,3 +11,4 @@
 | 声卡 | 瑞昱 ALC892 @ 英特尔 High Definition Audio 控制器 |
 | 网卡 | 英特尔 Ethernet Connection  I219-V / 技嘉 |
 | 无线网卡 | 博通BCM94360CD |
+PC已更换 此EFI暂停更新
